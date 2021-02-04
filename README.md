@@ -22,6 +22,15 @@
 -->
 # GitHubの使い方台本
 
+## 概要
+本リポジトリは、GitHub初心者の[yama727yaman](https://github.com/yama727yaman)と[niisan1ban](https://github.com/niisan1ban)が、共同開発の演習用に作成した。ここでは、実際に行った演習の手順をまとめた。
+
+## 共同開発モデルについて
+今回は知り合い同士で比較的小規模の共同開発を行うことを想定し、**共有リポジトリモデル**を採用した。しかし、見知らぬ人と大規模な開発を行う場合は**フォークとプルモデル**を使用するのが望ましい。フォークとプルモデルでの開発手順については、以下のページを参照していただきたい。
+
+nakamura331/mysite3<br>
+[https://github.com/nakamura331/mysite3](https://github.com/nakamura331/mysite3)
+
 ## 目次
 1. [AがGitHub上にリモートリポジトリを用意し、"Hello"とだけ書かれたindex.htmlファイルを入れる](#chapter1)
 2. [BがローカルPCにHTMLファイルを取り込み、編集してAにプルリクエストする](#chapter2)
@@ -245,6 +254,12 @@
 
   3と同様の方法で、sub2ブランチをmasterブランチにマージする。マージが完了したら、リモートのsub2ブランチはDelete branchボタンで削除する。Bのローカルリポジトリで作成したsub2ブランチも削除しておく。
 
+## 参考文献
+- リブロワークス（2020）『たった1日で基本が身に付く！Git超入門』技術評論社
+- "Git | プログラミングの入門なら基礎から学べるProgate[プロゲート]", <[https://prog-8.com/languages/git](https://prog-8.com/languages/git) >2021年1月26日アクセス
+- "【超入門】初心者のためのGitとGitHubの使い方 - RAKUS Developers Blog | ラクス エンジニアブログ", <[https://tech-blog.rakus.co.jp/entry/20200529/git](https://tech-blog.rakus.co.jp/entry/20200529/git)>2021年1月28日アクセス
+- "【 git clone 】コマンド――Gitのリポジトリを複製する：Linux基本コマンドTips（381） - ＠IT", <[https://www.atmarkit.co.jp/ait/articles/2003/05/news006.html](https://www.atmarkit.co.jp/ait/articles/2003/05/news006.html)>2021年1月29日アクセス
+- "よく使う Vim のコマンドまとめ - Qiita", <[https://qiita.com/hide/items/5bfe5b322872c61a6896](https://qiita.com/hide/items/5bfe5b322872c61a6896)>2021年1月29日アクセス
 
 
 ***
