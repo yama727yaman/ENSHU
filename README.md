@@ -20,7 +20,7 @@
       | 左寄せ | 右寄せ | 要素の前後にはスペース
 
 -->
-# GitHubの使い方台本
+# GitHubの使い方ワークフロー
 
 ## 概要
 本リポジトリは、GitHub初心者の[yama727yaman](https://github.com/yama727yaman)と[niisan1ban](https://github.com/niisan1ban)が、共同開発の演習用に作成した。ここでは、実際に行った演習の手順をまとめた。
