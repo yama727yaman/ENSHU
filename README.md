@@ -132,7 +132,7 @@ nakamura331/mysite3<br>
 
   2. 落としてきたindex.htmlに編集を加える。  
 
-  ![index.htmlを編集](img2/06.png)   
+  ![index.htmlを編集](img2/06.jpg)   
 
 
 ### Bがブランチを作成し、そこにファイルをプッシュしてAにプルリクエストする
@@ -237,7 +237,7 @@ nakamura331/mysite3<br>
   $ touch stylesheet.css
   ```
 
-  ![CSSファイル編集](img2/14.png)
+  ![CSSファイル編集](img2/14.jpg)
 
   5. cssファイルをコミットし、リモートリポジトリの**sub2ブランチ**にプッシュする。
 
